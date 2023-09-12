@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Prashant Farne (React 2+ Years)</h1>
+<h1 align="center">Hello, I am Prashant Farne (React 2+ Years)</h1>
 <h3 align="center">Frontend developer -[React, Typescript]</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@farneprashant707/why-you-should-choose-to-react-for-web-development-d68be6c34c7d](https://medium.com/@farneprashant707/why-you-should-choose-to-react-for-web-development-d68be6c34c7d)
