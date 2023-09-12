@@ -1,3 +1,4 @@
+<h1 align="center">Hello, Prashant Farne (React 2+ Years)</h1>
 <h3 align="center">Frontend developer -[React, Typescript]</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@farneprashant707/why-you-should-choose-to-react-for-web-development-d68be6c34c7d](https://medium.com/@farneprashant707/why-you-should-choose-to-react-for-web-development-d68be6c34c7d)
@@ -8,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-farne-software-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-farne-software-developer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashant farne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant farne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
